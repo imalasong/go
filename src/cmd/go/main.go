@@ -87,7 +87,7 @@ func init() {
 	}
 }
 
-var _ = go11tag
+//var _ = go11tag
 
 var counterErrorsGOPATHEntryRelative = base.NewCounter("go/errors:gopath-entry-relative")
 

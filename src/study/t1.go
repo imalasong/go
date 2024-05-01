@@ -14,7 +14,7 @@ import (
 func main() {
 	//testChan()
 	//go1()
-	go2()
+	//go2()
 }
 
 func go2() {
